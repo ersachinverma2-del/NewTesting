@@ -1,1 +1,1 @@
-// using js we add new features..
+// using js we add new features
